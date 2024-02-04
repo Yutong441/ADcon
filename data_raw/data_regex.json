@@ -1,0 +1,14 @@
+{
+    "ADNI_EOAD": {
+        "ID": "/ADNI/original/nifti/EOAD_T1/",
+        "T1": "/ADNI/original/nifti/EOAD_T1/IDIDIDID/*/*.nii.gz",
+        "FLAIR": "/ADNI/original/nifti/EOAD_FLAIR/IDIDIDID/*/*.nii.gz",
+        "save": "/ADNI/processed/time0"
+    },
+    "ADNI_LOAD": {
+        "ID": "/ADNI/original/nifti/LOAD_T1/",
+        "T1": "/ADNI/original/nifti/LOAD_T1/IDIDIDID/*/*.nii.gz",
+        "FLAIR": "/ADNI/original/nifti/LOAD_FLAIR/IDIDIDID/*/*.nii.gz",
+        "save": "/ADNI/processed/time0_load"
+    }
+}
